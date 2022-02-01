@@ -4,8 +4,8 @@
 - React
 - Typescript
 - Framer Motion
-* link: https://ceaseless-authority.surge.sh/
-
+* link: https://casa-do-saber.vercel.app/
+* 
 Nota: *Ainda estou trabalhando a responsividade*
 
 # Imagens do produto inicial:
